@@ -1,6 +1,6 @@
 function love.conf(t)
-    t.window.title = "Palhaços vs Monstros 2"
-    t.window.fullscreen = true
+    t.window.title = "Spazio"
+    t.window.fullscreen = false
     t.window.vsync = false
     t.window.borderless = true
 
